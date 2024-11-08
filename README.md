@@ -35,8 +35,7 @@
 4. **Set Up Configuration Files** (if necessary):
    - Ensure all API keys, device IPs, and settings are configured properly.
 5. **3d Desighn in OnShape**:
-   - [https://cad.onshape.com/documents/f3c4ef143a5cdcfd55159fe6/w/ba8dfa80169bced1aa6ce4df/e/ea9f4c2c1d49a9316b781902](https://cad.onshape.com/documents/f3c4ef143a5cdcfd55159fe6/w/ba8dfa80169bced1aa6ce4df/e/ea9f4c2c1d49a9316b781902)
-
+   -https://cad.onshape.com/documents/f3c4ef143a5cdcfd55159fe6/w/ba8dfa80169bced1aa6ce4df/e/ea9f4c2c1d49a9316b781902?renderMode=0&uiState=672e70436bdd0a33510a0164
 ## Usage
 
 1. **Start the Bottle Detector**:
