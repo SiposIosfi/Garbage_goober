@@ -26,7 +26,7 @@
    ```
    AND
     ```bash
-   [https://github.com/AlexandruARV/robocop](https://github.com/AlexandruARV/robocop)
+  git clone https://github.com/AlexandruARV/robocop.git
    ```
 2. **Navigate to the Directory**
    ```bash
