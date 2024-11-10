@@ -24,6 +24,10 @@
    ```bash
    git clone https://github.com/yourusername/garbage-goober.git
    ```
+   AND
+    ```bash
+   [https://github.com/AlexandruARV/robocop](https://github.com/AlexandruARV/robocop)
+   ```
 2. **Navigate to the Directory**
    ```bash
    cd garbage-goober
