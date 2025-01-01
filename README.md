@@ -32,13 +32,17 @@
    ```bash
    cd Garbage-goober
    ```
-3. **Install Dependencies**
+3. **Install Dependencies for Command Center**
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements_command_center.txt --break-system-packages
    ```
-4. **Set Up Configuration Files** (if necessary):
+4. **Install Dependencies for Robot**
+    ```bash
+   pip install -r requirements_robot.txt --break-system-packages
+   ```
+5. **Set Up Configuration Files** (if necessary):
    - Ensure all API keys, device IPs, and settings are configured properly.
-5. **3d Desighn in OnShape**:
+6. **3d Desighn in OnShape**:
    -https://cad.onshape.com/documents/f3c4ef143a5cdcfd55159fe6/w/ba8dfa80169bced1aa6ce4df/e/ea9f4c2c1d49a9316b781902?renderMode=0&uiState=672e70436bdd0a33510a0164
 ## Usage
 
