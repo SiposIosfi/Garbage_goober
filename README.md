@@ -59,19 +59,14 @@
 
 1. **Start the Bottle Detector**:
    ```bash
-   python detector.py
+   python3 Robotcode.py
    ```
-2. **Monitor Goober's Progress**:
-   - Watch the live feed to see Garbage Goober in action as it hunts for bottles!
-3. **Access Reports**:
-   - Check collected bottle count, recycling efficiency, and more.
-
-## Project Structure
-
-- **/src**: Main codebase, including detection, navigation, and control modules.
-- **/config**: Configuration files for hardware and detection settings.
-- **/data**: Logs and statistics on collection activity.
-- **README.md**: Project documentation (you're here!).
+2. **Start the Command Center code**:
+   ```bash
+   python3 threddingWithRadnMove.py
+   ```
+3. **Monitor Goober's Progress**:
+   - Watch the live feed from the command center to see Garbage Goober in action as it hunts for bottles!
 
 ## Contributing
 
