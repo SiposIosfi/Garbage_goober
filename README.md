@@ -18,6 +18,17 @@
 - **Software**: Python, OpenCV, TensorFlow (or other detection libraries).
 - **Other Requirements**: Basic understanding of Git for version control.
 
+### **Command Center (PC/Laptop)**
+- Python 3.8+ installed.
+- SSH access to the Raspberry Pi Zero 2 W.
+- Installed dependencies from `requirements_command_center.txt`.
+
+### **Robot (Raspberry Pi Zero 2 W)**
+- Python 3.8+ installed.
+- Camera module attached and working.
+- Installed dependencies from `requirements_robot.txt`.
+- Serial connection to the 3D printer configured.
+
 ### Installation
 
 1. **Clone the Repository**
