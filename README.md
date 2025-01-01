@@ -25,12 +25,12 @@
    sudo git clone https://github.com/SiposIosfi/Garbage_goober.git
    ```
    AND
-    ```bash
-  git clone https://github.com/AlexandruARV/robocop.git
+   ```bash
+   git clone https://github.com/AlexandruARV/robocop.git
    ```
 2. **Navigate to the Directory**
    ```bash
-   cd garbage-goober
+   cd Garbage-goober
    ```
 3. **Install Dependencies**
    ```bash
