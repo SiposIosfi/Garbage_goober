@@ -1,5 +1,5 @@
 
-# Garbage Goober 🤖💧:champagne:
+# Garbage Goober 🤖💧🍾
 
 **Garbage Goober** is a whimsical yet hardworking recycling robot designed to help keep our planet clean, one bottle at a time. With sensors, AI, and a love for litter, Garbage Goober identifies, collects, and properly disposes of water bottles to make sure they’re recycled. This project is a tribute to the beloved *Rick and Morty* character with a mission to tackle plastic waste!
 
