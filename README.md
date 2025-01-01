@@ -22,7 +22,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/SiposIosif/garbage-goober.git
+   sudo git clone https://github.com/SiposIosfi/Garbage_goober.git
    ```
    AND
     ```bash
